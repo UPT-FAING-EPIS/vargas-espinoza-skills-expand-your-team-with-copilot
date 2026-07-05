@@ -66,3 +66,5 @@ These dependencies will be installed when you run `pip install -r src/requiremen
 
 > [!IMPORTANT]
 > All data is stored in memory, which means data will be reset when the server restarts.
+
+Collaboration note for the exercise review.
